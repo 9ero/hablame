@@ -1,2 +1,2 @@
 # hablame
-Android application developed with Kodular using visual scripting
+Android application developed with Kodular(Java based) using visual scripting
